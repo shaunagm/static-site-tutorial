@@ -1,6 +1,8 @@
 AUTHOR = 'Parsons Community'
 SITENAME = 'Test Project'
-SITEURL = "http://shaunagm.github.io/static-site-tutorial"
+SITEURL = 'http://shaunagm.github.io/static-site-tutorial'
+
+RELATIVE_URLS = False
 
 PATH = "content"
 

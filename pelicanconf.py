@@ -1,6 +1,6 @@
 AUTHOR = 'Parsons Community'
 SITENAME = 'Test Project'
-SITEURL = ""
+SITEURL = "https://shaunagm.github.io/static-site-tutorial/"
 
 PATH = "content"
 
@@ -33,3 +33,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+
